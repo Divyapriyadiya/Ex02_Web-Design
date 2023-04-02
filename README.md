@@ -19,10 +19,34 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
-
+```
+<html>
+<head>
+<title> Saveetha Engineering College</title>
+</head>
+<body bgcolor="cyan" text-"black">
+<h1 align:"center">Saveetha Engineering College</h1>
+<hr size="6" color="red">
+<ol type="A">
+<li>Agricultural Engineering</li>
+<li>Computer Science And Engineering</li>
+<li>Information Technology</li>
+<li>Data Science</li>
+<ul type-"disc">
+<li>Artificial Intelligence - Data Science</li>
+<li>Artificial Intelligence - Machine Learning</li>
+<li>Internet Of Things</li>
+</ul>
+<li>Electronics & Communication Engineering</li>
+<li>Electrical & Electronics Engineering</li>
+<li>Mechanical Engineering</li>
+</ol>
+</body>
+</html>
+```
 ## OUTPUT
 
+![di2](https://user-images.githubusercontent.com/128477941/229361976-52c79cf1-f3e2-4126-b06d-dd20f7a1e75a.png)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
